@@ -90,6 +90,7 @@ Make sure to read and follow the instructions below carefully. Good luck!
   ❗ In a future task, you will make it so that the display reverts to "block" on successful weather data retrieval.
 
   ---
+  
 
 </details>
 
